@@ -4,3 +4,6 @@
 https://docs.djangoproject.com/en/2.1/intro/tutorial03/
 
 ### NOTE in this README the main thing you picked up from this article BELOW
+
+
+the render function takes the place of the http response
